@@ -1,4 +1,4 @@
-## Capture ScrrenShot!
+## Capture ScreenShot!
 
 In this app, I'm gonna showing you how to take screenshot with javascript fro webpage! We will use html2canvas library to take scrrenshots from website with javscript coding !!!
 
